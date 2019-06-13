@@ -19,8 +19,8 @@ It contains:
     - Arithmetical factorization 
     - Prime factorization
     - Prime test
-    - Greatest Common Factor (PGCD in french because the name of the function is written in french.. I don't remember why)
-    - Smallest Common Multiple (PPCM, also in french)
+    - Greatest Common Factor (PGCD in French because the name of the function is written in french.. I don't remember why)
+    - Smallest Common Multiple (PPCM, also in French)
     - A ton of explicit data type conversions
     - First degre and second degree polynomial solutions calculator
     - A few math functions like log and root
