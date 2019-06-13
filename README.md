@@ -29,4 +29,5 @@ If you want to run it:
   -Download the .xojo_binary_project file
    -Download XOJO: https://www.xojo.com/download/ 
       You need to make an account unfortunately 
+   -Open the file you downloaded
    -Click on the big run button at the top of your screen 
