@@ -5,7 +5,7 @@ These are a bunch of classes and functions I used throughout my programming days
 It contains:
 
 Classes:   
-  - A fully function Maze generator class  
+  - A fully functional Maze generator class  
   - A Vector class   
 
 Functions:   
